@@ -1,5 +1,4 @@
-# target-sistemas-intern
-## **Explanação sobre alguns dos desafios:**
+## **Explanação sobre alguns dos desafios facilmente resolvidos:**
 
 ### Desafio 05: Reverse String
 De maneira simples, percorri a string utilizando sua propriedade `.length` como se fosse um **vetor**, o que me dá acesso aos índices dos elementos em ordem inversa. Dessa forma, consegui concatenar cada um dos elementos e, ao final, obter a string invertida.
